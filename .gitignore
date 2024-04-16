@@ -1,0 +1,7 @@
+.vscode
+
+# Remove another images
+*.svg
+*.png
+
+!icon.svg
