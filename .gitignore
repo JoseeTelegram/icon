@@ -3,5 +3,7 @@
 # Remove another images
 *.svg
 *.png
+*.jpg
+*.ico
 
 !icon.svg
